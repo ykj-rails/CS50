@@ -24,5 +24,5 @@ CS50では以下のようなことが学べます
 
 ## Lesson
 
-1. [Week0 Scratch](/week0/week0.md)
-2. [Week1 C](TBD)
+1. [Week0 Scratch](/week0/week0_scratch.md)
+2. [Week1 C](/week1/week1_c.md)
