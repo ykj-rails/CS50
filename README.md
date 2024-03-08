@@ -26,6 +26,6 @@ CS50では以下のようなことが学べます
 
 ## Lesson
 
-1. [Week0 Scratch](/week0/week0_scratch.md)
-2. [Week1 C](/week1/week1_c.md)
-3. [Week2 Arrays](/week2/week2_arrays.md)
+1. [Week0 Scratch](/week0/scratch.md)
+2. [Week1 C](/week1/c.md)
+3. [Week2 Arrays](/week2/arrays.md)
