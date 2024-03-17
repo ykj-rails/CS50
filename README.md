@@ -29,3 +29,4 @@ CS50では以下のようなことが学べます
 1. [Week0 Scratch](/week0/scratch.md)
 2. [Week1 C](/week1/c.md)
 3. [Week2 Arrays](/week2/arrays.md)
+4. [Week3 Algorithms](/week3/algorithms.md)
