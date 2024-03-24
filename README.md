@@ -30,3 +30,4 @@ CS50では以下のようなことが学べます
 2. [Week1 C](/week1/c.md)
 3. [Week2 Arrays](/week2/arrays.md)
 4. [Week3 Algorithms](/week3/algorithms.md)
+4. [Week4 Memory](/week4/memory.md)
