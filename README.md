@@ -32,3 +32,4 @@ CS50では以下のようなことが学べます
 4. [Week3 Algorithms](/week3/algorithms.md)
 5. [Week4 Memory](/week4/memory.md)
 6. [Week5 Data Structures](/week5/dataStructures.md)
+7. [Week6 Python](/week6/python.md)
