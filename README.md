@@ -35,3 +35,4 @@ CS50では以下のようなことが学べます
 7. [Week6 Python](/week6/python.md)
 8. [Week7 SQL](/week7/sql.md)
 9. [Week8 HTML,CSS,JavaScript](/week8/html-css-javascript.md)
+10. [Week9 Flask](/week9/flask.md)
